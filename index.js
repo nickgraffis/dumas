@@ -1,29 +1,9 @@
-var wikiText = `The Battle of Stamford Bridge (Old English: Gefeoht æt Stanfordbrycge) took place at the village of Stamford Bridge, East Riding of Yorkshire, in England on 25 September 1066, between an English army under King Harold Godwinson and an invading Norwegian force led by King Harald Hardrada and the English king's brother Tostig Godwinson. After a bloody battle, both Hardrada and Tostig along with most of the Norwegians were killed. Although Harold Godwinson repelled the Norwegian invaders, his army was defeated by the Normans at Hastings less than three weeks later. The battle has traditionally been presented as symbolising the end of the Viking Age, although major Scandinavian campaigns in Britain and Ireland occurred in the following decades, such as those of King Sweyn Estrithson of Denmark in 1069–1070 and King Magnus Barefoot of Norway in 1098 and 1102–1103.
-The death of King Edward the Confessor of England in January 1066 had triggered a succession struggle in which a variety of contenders from across north-western Europe fought for the English throne. These claimants included the King of Norway, Harald Hardrada. According to the Anglo-Saxon Chronicle Manuscript D (p. 197),[3] the Norwegians assembled a fleet of 300 ships to invade England. The authors, however, did not seem to differentiate between warships and supply ships. In King Harald's Saga, Snorri Sturluson states, "... it is said that King Harald had over two hundred ships, apart from supply ships and smaller craft."[4] Combined with reinforcements picked up in Orkney, the Norwegian army most likely numbered between 7,000 and 9,000 men. Arriving off the English coast in September Hardrada was joined by further forces recruited in Flanders and Scotland by Tostig Godwinson.[5] Tostig was at odds with his elder brother Harold (who had been elected king by the Witenagemot on the death of Edward). Having been ousted from his position as Earl of Northumbria and exiled in 1065, Tostig had mounted a series of abortive attacks on England in the spring of 1066.[6]
-
-In the late summer of 1066, the invaders sailed up the Ouse before advancing on York. On 20 September they defeated a northern English army led by Edwin, Earl of Mercia, and his brother Morcar, Earl of Northumbria, at the Battle of Fulford, outside York. Following this victory they received the surrender of York. Having briefly occupied the city and taken hostages and supplies from the city they returned towards their ships at Riccall. They offered peace to the Northumbrians in exchange for their support for Hardrada's bid for the throne, and demanded further hostages from the whole of Yorkshire.[7]
-
-The sudden appearance of the English army caught the Norwegians by surprise.[14] The English advance was then delayed by the need to pass through the choke-point presented by the bridge itself. The Anglo-Saxon Chronicle has it that a giant Norse axeman (possibly armed with a Dane Axe) blocked the narrow crossing and single-handedly held up the entire English army. The story is that this axeman cut down up to 40 Englishmen and was defeated only when an English soldier floated under the bridge in a half-barrel and thrust his spear through the planks in the bridge, mortally wounding the axeman.[15]
-
-This delay had allowed the bulk of the Norse army to form a shieldwall to face the English attack. Harold's army poured across the bridge, forming a line just short of the Norse army, locked shields and charged. The battle went far beyond the bridge itself, and although it raged for hours, the Norse army's decision to leave their armour behind left them at a distinct disadvantage. Eventually, the Norse army began to fragment and fracture, allowing the English troops to force their way in and break up the Scandinavians' shield wall. Completely outflanked, and with Hardrada killed with an arrow to his windpipe and Tostig slain, the Norwegian army disintegrated and was virtually annihilated.[16]
-
-In the later stages of the battle, the Norwegians were reinforced by troops who had been guarding the ships at Riccall, led by Eystein Orre, Hardrada's prospective son-in-law. Some of his men were said to have collapsed and died of exhaustion upon reaching the battlefield. The remainder were fully armed for battle. Their counter-attack, described in the Norwegian tradition as "Orre's Storm", briefly checked the English advance, but was soon overwhelmed and Orre was slain. The Norwegian army were routed. As given in the Chronicles, pursued by the English army, some of the fleeing Norsemen drowned whilst crossing rivers.[1]
-
-So many died in an area so small that the field was said to have been still whitened with bleached bones 50 years after the battle.[17][18]
-According to Snorri Sturluson, before the battle a single man rode up alone to Harald Hardrada and Tostig. He gave no name, but spoke to Tostig, offering the return of his earldom if he would turn against Hardrada. Tostig asked what his brother Harold would be willing to give Hardrada for his trouble. The rider replied "Seven feet of English ground, as he is taller than other men." Then he rode back to the Saxon host. Hardrada was impressed by the rider's boldness, and asked Tostig who he was. Tostig replied that the rider was Harold Godwinson himself.[13] According to Henry of Huntingdon, Harold said "Six feet of ground or as much more as he needs, as he is taller than most men."[citation needed]
-
-The sudden appearance of the English army caught the Norwegians by surprise.[14] The English advance was then delayed by the need to pass through the choke-point presented by the bridge itself. The Anglo-Saxon Chronicle has it that a giant Norse axeman (possibly armed with a Dane Axe) blocked the narrow crossing and single-handedly held up the entire English army. The story is that this axeman cut down up to 40 Englishmen and was defeated only when an English soldier floated under the bridge in a half-barrel and thrust his spear through the planks in the bridge, mortally wounding the axeman.[15]
-
-This delay had allowed the bulk of the Norse army to form a shieldwall to face the English attack. Harold's army poured across the bridge, forming a line just short of the Norse army, locked shields and charged. The battle went far beyond the bridge itself, and although it raged for hours, the Norse army's decision to leave their armour behind left them at a distinct disadvantage. Eventually, the Norse army began to fragment and fracture, allowing the English troops to force their way in and break up the Scandinavians' shield wall. Completely outflanked, and with Hardrada killed with an arrow to his windpipe and Tostig slain, the Norwegian army disintegrated and was virtually annihilated.[16]
-
-In the later stages of the battle, the Norwegians were reinforced by troops who had been guarding the ships at Riccall, led by Eystein Orre, Hardrada's prospective son-in-law. Some of his men were said to have collapsed and died of exhaustion upon reaching the battlefield. The remainder were fully armed for battle. Their counter-attack, described in the Norwegian tradition as "Orre's Storm", briefly checked the English advance, but was soon overwhelmed and Orre was slain. The Norwegian army were routed. As given in the Chronicles, pursued by the English army, some of the fleeing Norsemen drowned whilst crossing rivers.[1]
-
-So many died in an area so small that the field was said to have been still whitened with bleached bones 50 years after the battle.[17][18]
-King Harold accepted a truce with the surviving Norwegians, including Harald's son Olaf and Paul Thorfinnsson, Earl of Orkney. They were allowed to leave after giving pledges not to attack England again. The losses the Norwegians had suffered were so severe that only 24 ships from the fleet of over 300 were needed to carry the survivors away.[1] They withdrew to Orkney, where they spent the winter, and in the spring Olaf returned to Norway. The kingdom was then divided and shared between him and his brother Magnus, whom Harald had left behind to govern in his absence.[19]
-
-Harold's victory was short-lived. Three days after the battle, on 28 September, a second invasion army led by William, Duke of Normandy, landed in Pevensey Bay, Sussex, on the south coast of England. Harold had to immediately turn his troops around and force-march them southwards to intercept the Norman army.[20] Less than three weeks after Stamford Bridge, on 14 October, the English army was decisively defeated and King Harold II fell in action at the Battle of Hastings,[21] beginning the Norman conquest of England, a process facilitated by the heavy losses amongst the English military commanders.[`;
-
-var text = 'This is a short Snippet of text!';
+/* Pull in readline */
+const readline = require('readline').createInterface({
+  input: process.stdin,
+  output: process.stdout
+});
+const fs = require('fs');
 
 var stopwords = ['i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you', "you're", "you've", "you'll", "you'd", 'your', 'yours', 'yourself', 'yourselves', 'he', 'him', 'his', 'himself', 'she', "she's", 'her', 'hers', 'herself', 'it', "it's", 'its', 'itself', 'they', 'them', 'their', 'theirs', 'themselves', 'what', 'which', 'who', 'whom', 'this', 'that', "that'll", 'these', 'those', 'am', 'is', 'are', 'was', 'were', 'be', 'been', 'being', 'have', 'has', 'had', 'having', 'do', 'does', 'did', 'doing', 'a', 'an', 'the', 'and', 'but', 'if', 'or', 'because', 'as', 'until', 'while', 'of', 'at', 'by', 'for', 'with', 'about', 'against', 'between', 'into', 'through', 'during', 'before', 'after', 'above', 'below', 'to', 'from', 'up', 'down', 'in', 'out', 'on', 'off', 'over', 'under', 'again', 'further', 'then', 'once', 'here', 'there', 'when', 'where', 'why', 'how', 'all', 'any', 'both', 'each', 'few', 'more', 'most', 'other', 'some', 'such', 'no', 'nor', 'not', 'only', 'own', 'same', 'so', 'than', 'too', 'very', 's', 't', 'can', 'will', 'just', 'don', "don't", 'should', "should've", 'now', 'd', 'll', 'm', 'o', 're', 've', 'y', 'ain', 'aren', "aren't", 'couldn', "couldn't", 'didn', "didn't", 'doesn', "doesn't", 'hadn', "hadn't", 'hasn', "hasn't", 'haven', "haven't", 'isn', "isn't", 'ma', 'mightn', "mightn't", 'mustn', "mustn't", 'needn', "needn't", 'shan', "shan't", 'shouldn', "shouldn't", 'wasn', "wasn't", 'weren', "weren't", 'won', "won't", 'wouldn', "wouldn't"];
 
@@ -38,8 +18,6 @@ function dot(vector1, vector2) {
 function sentenceTokinization (text) {
   return text.replace(/([.?!])\s*(?=[A-Z])/g, "$1|").split("|");
 };
-
-var wikiSentences = sentenceTokinization(wikiText);
 
 function tokenizeWords(text) {
   var processedText = text.replace(/[^a-zA-Z ]/g, "");
@@ -200,4 +178,14 @@ function dumas (text, k) {
   return importantSentences.join(' ');
 }
 
-console.log(dumas(wikiText, 6));
+readline.question('What file would you like summerized? And how many sentences should be given? \n >', userResponse => {
+  fs.readFile(userResponse.split(' ')[0], 'utf8' , (err, data) => {
+    if (err) {
+      console.error(err)
+      return
+    }
+    var text = data;
+    var k = userResponse.split(' ')[1];
+    console.log(dumas(text, k));
+  });
+});

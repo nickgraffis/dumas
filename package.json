@@ -1,0 +1,23 @@
+{
+  "name": "dumas",
+  "version": "1.0.0",
+  "description": "Text summation using TF/IDF values of a single document and Cosine Similarity to provide k number of sentences that summerize the document.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickgraffis/dumas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickgraffis/dumas/issues"
+  },
+  "homepage": "https://github.com/nickgraffis/dumas#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
