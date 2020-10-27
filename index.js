@@ -114,8 +114,8 @@ function zeros (columns, rows) {
   var matrix = [];
   var rowMatrix = [];
   for (let i = 0; i < columns; i++) {
+    rowMatrix = [];
     for (let k = 0; k < rows; k++) {
-      rowMatrix = [];
       rowMatrix.push(0);
     }
     matrix.push(rowMatrix);
